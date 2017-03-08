@@ -4,7 +4,7 @@
   "description": "Botter is an AI chatbot for personal and professional information",
   "main": "botter.js",
   "scripts": {
-    "start": "node botter.js",
+    "start": "node jobot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
