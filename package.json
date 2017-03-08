@@ -1,0 +1,28 @@
+{
+  "name": "matchremote",
+  "version": "1.0.0",
+  "description": "Botter is an AI chatbot for personal and professional information",
+  "main": "botter.js",
+  "scripts": {
+    "start": "node botter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Firas Moalla",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.0",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.1",
+    "path": "^0.12.7",
+    "request": "^2.80.0",
+    "socketio": "^1.0.0",
+    "winston": "^2.3.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}

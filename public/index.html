@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta data -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Botter is an AI chatbot which provides information about its owner a la questions/answers.">
+    <meta name="author" content="Firas Moalla">
+
+    <!-- Favicon & Page Title-->
+    <link async rel="icon" href="https://www.codeschool.com/assets/meta/og-avatar-541739b5880b8586eeb033747a8a2cf3e689860d59b506d29a9633aed86d057d.png">
+    <title>MatchRemote</title>
+
+    <!-- CSS Styling-->
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  </head>
+
+  <body>
+
+  <div class="w3-container" id="mainjobcard">
+    <i class="fa fa-arrow-left fa-3x w3-display-left" id="leftJob"></i>
+
+    <div class="w3-card-4 w3-display-middle jobcard"> <!-- w3-hover-opacity -->
+      <header class="w3-container w3-pink" id="jobcardhead">
+        <h2 id="jobheader"></h2>
+        <h4 style="display:inline" id="jobcompany"></h4>
+        <span style="float:right" id="jobpostdate"></span>
+      </header>
+
+      <div class="w3-container description">
+        <p id="jobdescription"></p>
+      </div>
+
+      <ul class="w3-ul w3-border-top jobtagcard">
+        <li id="jobtag">
+        <span class="w3-tag w3-black" id='jobfirsttag'>Tags</span>&nbsp;
+        </li>
+      </ul>
+
+      <button class="w3-button w3-pink w3-block w3-large w3-hover-dark-grey" id="applyjob">
+        <b>Apply</b>
+      </button>
+
+ <!--     <footer class="w3-container w3-pink" id="jobcardfooter">
+        <h5 class="text-right" id="jobfooter"></h5> 
+      </footer> -->
+    </div>
+
+    <i class="fa fa-arrow-right fa-3x w3-display-right" id="rightJob"></i>
+  </div>
+
+
+
+    <!-- Messages Area 
+    <div>
+      <ul id="messagesArea"></ul>
+    </div> -->
+    
+      <ul class="w3-ul w3-card-2" id="messagesArea">
+<!--        <li class="w3-padding-medium">
+          <img src="https://www.w3schools.com/w3css/img_avatar2.png" class="w3-left w3-circle" style="width:50px;padding-right:5px;">
+          <span class="w3-large">Agent</span><br>
+          <span>WWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb DesignerWeb Designereb Designer</span>
+        </li>
+        <li class="w3-padding-6">
+          <img src="https://www.w3schools.com/w3css/img_avatar5.png" class="w3-left w3-circle" style="width:50px;padding-right:5px;">
+          <span class="w3-large">Me</span><br>
+          <span>Web Designer</span>
+        </li>
+-->
+      </ul>
+
+    <!-- Botter Feed --> 
+    <div id="botterFeed">
+      <b id="botterFeedText"></b>
+    </div>
+
+    <!-- User Message Form -->
+    <form class="form-inline" id="userMessageForm" action="" onsubmit="return userMessageHandler();"> 
+      <input id="userMessageInput" autocomplete="off" placeholder="Type your message.." />
+      <input id="submitMessageButton" type="submit" value="Send"/>
+    </form>
+  </body>
+
+  <!-- Scripts -->
+
+  <script type="text/javascript" src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+  <script type="text/javascript" src="/lib/jquery-3.1.1.min.js"></script>
+  <script> $('.jobcard').hide();</script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/client.js"></script> 
+  <script type="text/javascript" src="js/matcher.js"></script>
+</html>
