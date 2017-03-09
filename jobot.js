@@ -36,9 +36,9 @@ ioSocket.on('connection', function(socket){
   socket.on('clientJoined', function(userName){
     logger.log('info', 'User ' + userName + ' joined botter chat');
     ioSocket.emit('botMsg', configs.HOSTNAME, configs.GREETING); 
-    console.log(myJobs.getJobs());
+//    console.log(myJobs.getJobs());
     ioSocket.emit('allJobs', myJobs.getJSONJobs());
-    console.log('jobs from server');
+    console.log('Got jobs from server');
   });
 
   socket.on('error', function(err){
