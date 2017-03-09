@@ -42,6 +42,9 @@ $(document).ready(function(){
 
   // 
   socket.emit('clientMsg', 'Me', 'init');
+
+
+
 /*
   $(document).keypress(function(e) {
     if(e.which == 17) {
