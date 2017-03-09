@@ -321,7 +321,7 @@ function matchMe(position, skills, ajobs){
 //    window.console.log('match positions: ' + m.length);
 
 
-    insertMessageArea("Matcher", "We've got " + matches.length + " matches above. Let me know if you'd like to get different match, or ask for a job matching your skills.", "DarkRed");
+    insertMessageArea("Matcher", "<span style='color:green'>We've got " + matches.length + " matches above</span>. Let me know if you'd like to get different match, or ask for a job matching your skills.", "DarkRed");
     var matchJobs = [];
     for(var i = 0; i < matches.length; i++){
       matchJobs.push(matches[i].job);    
@@ -345,7 +345,7 @@ function matchMe(position, skills, ajobs){
    $("#jobcardhead").addClass('w3-' + 'blue');
    $("#applyjob").addClass('w3-' + 'blue');
 
-
+   socket.emit('clientMsg', 'Matcher', 'x1x1');
   } else { 
     window.console.log('no match => 0'); 
 //    insertMessageArea('Matcher', 'There are no matches', 'DarkRed');
