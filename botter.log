@@ -4737,3 +4737,121 @@
 {"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T01:00:49.900Z"}
 {"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T01:00:49.992Z"}
 {"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job with your skills.","timestamp":"2017-03-09T01:00:51.993Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T01:23:00.556Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T01:23:00.659Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T01:23:00.802Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T01:23:02.390Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T01:25:10.371Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T01:25:10.531Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T01:25:10.619Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T01:25:11.713Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T01:27:25.578Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T01:27:25.721Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T01:27:25.807Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T01:27:27.640Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T01:27:39.298Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T01:27:39.430Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T01:27:39.490Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T01:27:40.497Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T02:08:21.865Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T02:08:21.977Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T02:08:22.058Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T02:08:23.403Z"}
+{"level":"info","message":"client message. name: Me, msg: hi","timestamp":"2017-03-09T02:55:29.856Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hey!","timestamp":"2017-03-09T02:55:31.410Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T02:55:51.472Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:55:52.062Z"}
+{"level":"info","message":"client message. name: Me, msg: javascript","timestamp":"2017-03-09T02:57:50.030Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:57:50.759Z"}
+{"level":"info","message":"client message. name: Me, msg: ios","timestamp":"2017-03-09T02:58:34.563Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:58:35.154Z"}
+{"level":"info","message":"client message. name: Me, msg: android","timestamp":"2017-03-09T02:58:38.297Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:58:38.753Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T02:58:48.079Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T02:58:48.156Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T02:58:48.241Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T02:58:48.646Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T02:58:54.166Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:58:54.608Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T02:59:38.114Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T02:59:38.282Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T02:59:38.358Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T02:59:38.961Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T02:59:47.361Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T02:59:47.884Z"}
+{"level":"info","message":"client message. name: Me, msg: javascript","timestamp":"2017-03-09T03:00:10.113Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:00:10.711Z"}
+{"level":"info","message":"client message. name: Me, msg: ios","timestamp":"2017-03-09T03:00:41.283Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:00:41.798Z"}
+{"level":"info","message":"client message. name: Me, msg: javascript","timestamp":"2017-03-09T03:00:50.573Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:00:51.238Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:01:21.204Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:01:21.791Z"}
+{"level":"info","message":"client message. name: Me, msg: node.js","timestamp":"2017-03-09T03:01:41.138Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:01:41.570Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:04:20.929Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:04:21.035Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:04:21.119Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:04:22.583Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T03:04:22.973Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:04:23.538Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:05:15.189Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:05:15.306Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:05:15.429Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:05:16.063Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T03:05:16.747Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:05:17.221Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:30:32.549Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:30:32.667Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:30:32.764Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T03:30:36.089Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:30:38.093Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:30:41.232Z"}
+{"level":"info","message":"client message. name: Me, msg: javascript","timestamp":"2017-03-09T03:37:01.138Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:37:02.674Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:37:53.812Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:37:54.388Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:41:28.963Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:41:29.036Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:41:29.122Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:41:30.365Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:41:46.610Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:41:47.217Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:43:08.395Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:43:08.481Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:43:08.555Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:43:09.098Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:43:12.161Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:43:12.413Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:44:19.686Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:44:19.788Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:44:19.902Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:44:20.530Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:44:21.678Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:44:22.137Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:44:51.258Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:44:51.350Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:44:51.429Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:44:51.953Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:45:00.355Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:45:00.823Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T03:45:14.444Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:45:14.893Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:45:32.395Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:45:32.470Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:45:32.570Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:45:33.058Z"}
+{"level":"info","message":"client message. name: Me, msg: java","timestamp":"2017-03-09T03:45:35.119Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:45:35.579Z"}
+{"level":"info","message":"client message. name: Me, msg: nodejs","timestamp":"2017-03-09T03:45:45.225Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:45:45.692Z"}
+{"level":"info","message":"client message. name: Me, msg: javascript","timestamp":"2017-03-09T03:45:55.253Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:45:56.308Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-09T03:46:35.345Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T03:46:35.406Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T03:46:35.486Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T03:46:35.953Z"}
+{"level":"info","message":"client message. name: Me, msg: node","timestamp":"2017-03-09T03:46:40.662Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:46:40.964Z"}
+{"level":"info","message":"client message. name: Me, msg: python","timestamp":"2017-03-09T03:46:53.718Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T03:46:54.279Z"}

@@ -227,6 +227,7 @@ function populateTags(job){
 
 /* Job sliders: Manipulates card job index */
 function slideJobRight(){
+  if(jobs.length > 1){
   var nextJobIndex = currentJobIndex + 1;
 
   if(nextJobIndex >= jobs.length){
@@ -238,11 +239,12 @@ function slideJobRight(){
   populateJob();
   changeJobCardColorRight();
   window.console.log('Current Job Index : ' + currentJobIndex);
-
+  }
   return false;
 }
 
 function slideJobLeft(){
+  if(jobs.length > 1){ 
   var nextJobIndex = currentJobIndex - 1;
 
   if(nextJobIndex >= 0){
@@ -254,6 +256,7 @@ function slideJobLeft(){
   changeJobCardColorLeft();
   window.console.log('Current Job Index : ' + currentJobIndex);
   
+  }
   return false;
 }
 
@@ -318,7 +321,7 @@ function matchMe(position, skills, ajobs){
 //    window.console.log('match positions: ' + m.length);
 
 
-    insertMessageArea("Matcher", "We've got " + (matches.length + 1) + " matches above. Let me know if you'd like to get different match, or ask for a job with your skills.", "DarkRed");
+    insertMessageArea("Matcher", "We've got " + matches.length + " matches above. Let me know if you'd like to get different match, or ask for a job matching your skills.", "DarkRed");
     var matchJobs = [];
     for(var i = 0; i < matches.length; i++){
       matchJobs.push(matches[i].job);    

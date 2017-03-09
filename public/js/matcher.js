@@ -12,9 +12,18 @@ function match(position, skills, jobs){
       matches.push(match);
     }
   }
+
   window.console.log('Compared: ' + jobs.length + ' jobs');
-//  var sortedMatches = sortMatches(matches); 
-  return matches; // TODO sort
+  window.console.log('matches: ' + matches.length + ' jobs');
+  matches = sortJobs(matches);
+  window.console.log('sorted matches: ' + matches.length + ' jobs');
+
+  for(var j = 0; j < matches.length; j++){
+    window.console.log('s counter: ' + matches[j].counter);
+  }
+
+
+  return matches;
 }
 
 function getMatch(skills, ajob){
@@ -64,10 +73,42 @@ function jobToStrArr(aJob){
   return concatPosJobArr;
 }
 
-//TODO
-function sortByCounter(matches){
-//  for(var
+function sortJobs(jobs){
+  var sorted = [];
+
+  for(var i = 0; i < jobs.length; i++){
+    sorted = insertJob(jobs[i], sorted);
+  }
+
+  return sorted;
 }
+
+function insertJob(aJob, arr){
+
+  if(arr.length === 0){
+    arr.push(aJob);
+    return arr;
+  }
+
+  for(var i = 0; i < arr.length; i++){
+    var jobCounter = arr[i].counter;
+
+    if(aJob.counter >= jobCounter) {
+      arr.splice(i, 0, aJob);
+      break;
+    }
+
+    if((i === (arr.length - 1)) && (aJob.counter < jobCounter)){
+      arr.splice((i+1), 0, aJob);
+      break;
+    }
+  }
+   
+  return arr;
+}
+
+
+
 
 /*
 function concatToArray(str1, str2){
