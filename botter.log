@@ -4995,3 +4995,175 @@
 {"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-09T04:13:47.249Z"}
 {"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-09T04:13:47.356Z"}
 {"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills.","timestamp":"2017-03-09T04:13:48.542Z"}
+{"level":"info","message":"client message. name: Me, msg: hai","timestamp":"2017-03-09T05:19:48.629Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hi there, friend!","timestamp":"2017-03-09T05:19:50.049Z"}
+{"level":"info","message":"client message. name: Me, msg: hya","timestamp":"2017-03-09T05:19:51.728Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed what you said. Say it again?","timestamp":"2017-03-09T05:19:52.307Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:19:53.958Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I didn't get that.","timestamp":"2017-03-09T05:19:54.282Z"}
+{"level":"info","message":"client message. name: Me, msg: hi","timestamp":"2017-03-09T05:21:01.750Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hey!","timestamp":"2017-03-09T05:21:02.428Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:21:04.028Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Sorry, what was that?","timestamp":"2017-03-09T05:21:04.640Z"}
+{"level":"info","message":"client message. name: Me, msg: hey","timestamp":"2017-03-09T05:21:06.564Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hey!","timestamp":"2017-03-09T05:21:06.862Z"}
+{"level":"info","message":"client message. name: Me, msg: hai","timestamp":"2017-03-09T05:21:10.244Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Good day!","timestamp":"2017-03-09T05:21:10.493Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:21:12.512Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Say that again?","timestamp":"2017-03-09T05:21:13.110Z"}
+{"level":"info","message":"client message. name: Me, msg: hya","timestamp":"2017-03-09T05:21:14.284Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Good day!","timestamp":"2017-03-09T05:21:14.540Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:22:54.908Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I didn't get that.","timestamp":"2017-03-09T05:22:55.428Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:22:56.956Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: What was that?","timestamp":"2017-03-09T05:22:57.239Z"}
+{"level":"info","message":"client message. name: Me, msg: hi","timestamp":"2017-03-09T05:23:36.371Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Greetings!","timestamp":"2017-03-09T05:23:36.926Z"}
+{"level":"info","message":"client message. name: Me, msg: hello","timestamp":"2017-03-09T05:23:38.320Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Good day!","timestamp":"2017-03-09T05:23:38.567Z"}
+{"level":"info","message":"client message. name: Me, msg: hia","timestamp":"2017-03-09T05:23:39.462Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hello!","timestamp":"2017-03-09T05:23:39.894Z"}
+{"level":"info","message":"client message. name: Me, msg: hya","timestamp":"2017-03-09T05:23:41.074Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Hi!","timestamp":"2017-03-09T05:23:41.350Z"}
+{"level":"info","message":"client message. name: Me, msg: java swimg","timestamp":"2017-03-09T05:48:23.644Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T05:48:24.777Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T05:48:24.831Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:48:25.390Z"}
+{"level":"info","message":"client message. name: Me, msg: swimg","timestamp":"2017-03-09T05:48:34.972Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Sorry, I didn't get that.","timestamp":"2017-03-09T05:48:35.446Z"}
+{"level":"info","message":"client message. name: Me, msg: i want a job in the moon","timestamp":"2017-03-09T05:50:55.044Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:50:56.159Z"}
+{"level":"info","message":"client message. name: Me, msg: I want a job in my country","timestamp":"2017-03-09T05:52:01.029Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T05:52:01.624Z"}
+{"level":"info","message":"client message. name: Me, msg: president","timestamp":"2017-03-09T05:52:05.117Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type your skills separated by space.","timestamp":"2017-03-09T05:52:05.600Z"}
+{"level":"info","message":"client message. name: Me, msg: handsome money maker","timestamp":"2017-03-09T05:52:18.000Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:52:18.477Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T05:52:18.530Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:52:18.976Z"}
+{"level":"info","message":"client message. name: Me, msg: software engineer","timestamp":"2017-03-09T05:52:44.589Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed that.","timestamp":"2017-03-09T05:52:45.107Z"}
+{"level":"info","message":"client message. name: Me, msg: software","timestamp":"2017-03-09T05:52:47.511Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed what you said. Say it again?","timestamp":"2017-03-09T05:52:48.374Z"}
+{"level":"info","message":"client message. name: Me, msg: position","timestamp":"2017-03-09T05:52:51.141Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type your skills separated by space.","timestamp":"2017-03-09T05:52:52.293Z"}
+{"level":"info","message":"client message. name: Me, msg: software","timestamp":"2017-03-09T05:52:57.456Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:52:57.958Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T05:52:58.000Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:52:58.526Z"}
+{"level":"info","message":"client message. name: Me, msg: c# modeling","timestamp":"2017-03-09T05:54:33.214Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T05:54:33.736Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T05:54:33.768Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T05:54:34.332Z"}
+{"level":"info","message":"client message. name: Me, msg: he","timestamp":"2017-03-09T06:15:52.244Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: You have a great laugh.","timestamp":"2017-03-09T06:15:53.499Z"}
+{"level":"info","message":"client message. name: Me, msg: i want a job","timestamp":"2017-03-09T06:16:10.879Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:16:12.177Z"}
+{"level":"info","message":"client message. name: Me, msg: rgrg","timestamp":"2017-03-09T06:16:14.629Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type your skills separated by space.","timestamp":"2017-03-09T06:16:15.154Z"}
+{"level":"info","message":"client message. name: Me, msg: gregre","timestamp":"2017-03-09T06:16:16.721Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:16:17.429Z"}
+{"level":"info","message":"client message. name: Matcher, msg: m0m0","timestamp":"2017-03-09T06:16:17.444Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: <span style=\"color:red\">There are 0 job matches</span>, try again.","timestamp":"2017-03-09T06:16:17.908Z"}
+{"level":"info","message":"client message. name: Me, msg: again","timestamp":"2017-03-09T06:16:26.079Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for","timestamp":"2017-03-09T06:16:26.510Z"}
+{"level":"info","message":"client message. name: Me, msg: i have skills in java","timestamp":"2017-03-09T06:16:47.341Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Sorry, I didn't get that.","timestamp":"2017-03-09T06:16:47.888Z"}
+{"level":"info","message":"client message. name: Me, msg: i have skills in","timestamp":"2017-03-09T06:16:58.119Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed what you said. Say it again?","timestamp":"2017-03-09T06:16:58.724Z"}
+{"level":"info","message":"client message. name: Me, msg: i have skills in java","timestamp":"2017-03-09T06:17:57.066Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Looking for a match for java","timestamp":"2017-03-09T06:17:57.813Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:17:57.870Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:17:58.355Z"}
+{"level":"info","message":"client message. name: Me, msg: script","timestamp":"2017-03-09T06:21:58.846Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Sorry, what was that?","timestamp":"2017-03-09T06:22:00.111Z"}
+{"level":"info","message":"client message. name: Me, msg: gaming","timestamp":"2017-03-09T06:22:03.269Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I bet you're pretty good at that game.","timestamp":"2017-03-09T06:22:03.681Z"}
+{"level":"info","message":"client message. name: Me, msg: yes","timestamp":"2017-03-09T06:22:05.993Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for","timestamp":"2017-03-09T06:22:06.554Z"}
+{"level":"info","message":"client message. name: Me, msg: no","timestamp":"2017-03-09T06:24:20.268Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I see.","timestamp":"2017-03-09T06:24:21.396Z"}
+{"level":"info","message":"client message. name: Me, msg: ok","timestamp":"2017-03-09T06:24:24.680Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Sure. What can I do for you next?","timestamp":"2017-03-09T06:24:25.280Z"}
+{"level":"info","message":"client message. name: Me, msg: nothing","timestamp":"2017-03-09T06:24:29.475Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: All right. I'll just be here waiting for something to do.","timestamp":"2017-03-09T06:24:29.818Z"}
+{"level":"info","message":"client message. name: Me, msg: im ","timestamp":"2017-03-09T06:24:35.421Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I didn't get that.","timestamp":"2017-03-09T06:24:35.961Z"}
+{"level":"info","message":"client message. name: Me, msg: job","timestamp":"2017-03-09T06:24:38.274Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:24:38.853Z"}
+{"level":"info","message":"client message. name: Me, msg: a job","timestamp":"2017-03-09T06:24:47.737Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:24:48.187Z"}
+{"level":"info","message":"client message. name: Me, msg: i am looking for a developer job","timestamp":"2017-03-09T06:25:03.928Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:25:04.433Z"}
+{"level":"info","message":"client message. name: Me, msg: ok","timestamp":"2017-03-09T06:25:07.266Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type your skills separated by space.","timestamp":"2017-03-09T06:25:07.525Z"}
+{"level":"info","message":"client message. name: Me, msg: ok","timestamp":"2017-03-09T06:25:09.512Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:25:09.807Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:25:09.845Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:25:10.276Z"}
+{"level":"info","message":"client message. name: Me, msg: java job","timestamp":"2017-03-09T06:25:28.633Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Looking for a match for java","timestamp":"2017-03-09T06:25:29.159Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:25:29.194Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:25:29.613Z"}
+{"level":"info","message":"client message. name: Me, msg: how do you work","timestamp":"2017-03-09T06:26:01.220Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I take the best services the Internet has to offer and make them available from one central location.","timestamp":"2017-03-09T06:26:01.757Z"}
+{"level":"info","message":"client message. name: Me, msg: how do you work","timestamp":"2017-03-09T06:26:09.627Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I'm able to communicate with different web services to make your online experience more efficient.","timestamp":"2017-03-09T06:26:10.170Z"}
+{"level":"info","message":"client message. name: Me, msg: how does this work","timestamp":"2017-03-09T06:26:18.401Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I'm able to communicate with different web services to make your online experience more efficient.","timestamp":"2017-03-09T06:26:18.920Z"}
+{"level":"info","message":"client message. name: Me, msg: how do you work","timestamp":"2017-03-09T06:27:54.113Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: <b>MatchRemote</b> matches your skills with remote developer jobs. Type your programming skills and <b>Matcher</b> will match you, or ask to get matched.","timestamp":"2017-03-09T06:27:54.594Z"}
+{"level":"info","message":"client message. name: Me, msg: how do","timestamp":"2017-03-09T06:27:57.596Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed what you said. Say it again?","timestamp":"2017-03-09T06:27:58.311Z"}
+{"level":"info","message":"client message. name: Me, msg: how work","timestamp":"2017-03-09T06:28:00.898Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: You should always take pride in your work, even if you don't always enjoy it.","timestamp":"2017-03-09T06:28:01.190Z"}
+{"level":"info","message":"client message. name: Me, msg: how do you work","timestamp":"2017-03-09T06:28:05.566Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: <b>MatchRemote</b> matches your skills with remote developer jobs. Type your programming skills and <b>Matcher</b> will match you, or ask to get matched.","timestamp":"2017-03-09T06:28:05.859Z"}
+{"level":"info","message":"client message. name: Me, msg: how does this work","timestamp":"2017-03-09T06:28:10.547Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I take the best services the Internet has to offer and make them available from one central location.","timestamp":"2017-03-09T06:28:11.150Z"}
+{"level":"info","message":"client message. name: Me, msg: how does it work","timestamp":"2017-03-09T06:28:20.411Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I take the best services the Internet has to offer and make them available from one central location.","timestamp":"2017-03-09T06:28:20.915Z"}
+{"level":"info","message":"client message. name: Me, msg: how do you work","timestamp":"2017-03-09T06:28:23.602Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: <b>MatchRemote</b> matches your skills with remote developer jobs. Type your programming skills and <b>Matcher</b> will match you, or ask to get matched.","timestamp":"2017-03-09T06:28:24.210Z"}
+{"level":"info","message":"client message. name: Me, msg: i want to get matched","timestamp":"2017-03-09T06:28:37.696Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:28:38.252Z"}
+{"level":"info","message":"client message. name: Me, msg: no","timestamp":"2017-03-09T06:28:40.575Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type your skills separated by space.","timestamp":"2017-03-09T06:28:41.060Z"}
+{"level":"info","message":"client message. name: Me, msg: no","timestamp":"2017-03-09T06:28:43.592Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:28:43.840Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:28:43.892Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:28:44.358Z"}
+{"level":"info","message":"client message. name: Me, msg: all jobs","timestamp":"2017-03-09T06:33:14.263Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Another day, another dollar.","timestamp":"2017-03-09T06:33:15.910Z"}
+{"level":"info","message":"client message. name: Me, msg: gp to jobs","timestamp":"2017-03-09T06:33:20.605Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:33:20.892Z"}
+{"level":"info","message":"client message. name: Me, msg: no","timestamp":"2017-03-09T06:33:22.637Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Alrighty, let me know if you'd like to get a match.","timestamp":"2017-03-09T06:33:22.936Z"}
+{"level":"info","message":"client message. name: Me, msg: go to all jobs","timestamp":"2017-03-09T06:33:29.516Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:33:30.135Z"}
+{"level":"info","message":"client message. name: Me, msg: no","timestamp":"2017-03-09T06:33:32.453Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: OK then. Ask if you'd like to get a match later.","timestamp":"2017-03-09T06:33:32.996Z"}
+{"level":"info","message":"client message. name: Me, msg: go to main","timestamp":"2017-03-09T06:33:36.193Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:33:36.724Z"}
+{"level":"info","message":"client message. name: Me, msg: show all jobs","timestamp":"2017-03-09T06:33:49.924Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:33:50.404Z"}
+{"level":"info","message":"client message. name: Me, msg: haskell","timestamp":"2017-03-09T06:34:30.279Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T06:34:30.782Z"}
+{"level":"info","message":"client message. name: Matcher, msg: m0m0","timestamp":"2017-03-09T06:34:30.798Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: <span style=\"color:red\">There are 0 job matches</span>, try again, use your skills to find a match or ask for a job you'd like.","timestamp":"2017-03-09T06:34:31.079Z"}
+{"level":"info","message":"client message. name: Me, msg: developer","timestamp":"2017-03-09T06:34:46.433Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I missed that.","timestamp":"2017-03-09T06:34:46.910Z"}
+{"level":"info","message":"client message. name: Me, msg: software","timestamp":"2017-03-09T06:35:15.791Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I didn't get that.","timestamp":"2017-03-09T06:35:16.247Z"}
+{"level":"info","message":"client message. name: Me, msg: developer","timestamp":"2017-03-09T06:36:42.657Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Got skills","timestamp":"2017-03-09T06:36:43.257Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:36:43.318Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:36:43.812Z"}
+{"level":"info","message":"client message. name: Me, msg: engineer job","timestamp":"2017-03-09T06:36:58.538Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:36:59.091Z"}
+{"level":"info","message":"client message. name: Me, msg: developer job","timestamp":"2017-03-09T06:37:05.181Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: I've got your skills in developer .. Hang on while I search the web.","timestamp":"2017-03-09T06:37:05.634Z"}
+{"level":"info","message":"client message. name: Matcher, msg: x1x1","timestamp":"2017-03-09T06:37:05.692Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: ","timestamp":"2017-03-09T06:37:06.150Z"}
+{"level":"info","message":"client message. name: Me, msg: i'd like a developer job","timestamp":"2017-03-09T06:37:16.275Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Type the position you're looking for.","timestamp":"2017-03-09T06:37:16.751Z"}

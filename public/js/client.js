@@ -321,7 +321,7 @@ function matchMe(position, skills, ajobs){
 //    window.console.log('match positions: ' + m.length);
 
 
-    insertMessageArea("Matcher", "<span style='color:green'>We've got " + matches.length + " matches above</span>. Let me know if you'd like to get different match, or ask for a job matching your skills.", "DarkRed");
+    insertMessageArea("Matcher", "<span style='color:green'>We've got " + matches.length + " matches above</span>. Let me know if you'd like to get different match, or type your programming skills for a job match.", "DarkRed");
     var matchJobs = [];
     for(var i = 0; i < matches.length; i++){
       matchJobs.push(matches[i].job);    
