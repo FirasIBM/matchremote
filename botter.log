@@ -6862,3 +6862,11 @@
 {"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-11T05:34:37.647Z"}
 {"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-11T05:34:37.726Z"}
 {"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills, or simply type your skills.","timestamp":"2017-03-11T05:34:38.229Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-11T05:38:11.980Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-11T05:38:12.100Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-11T05:38:12.215Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills, or simply type your skills.","timestamp":"2017-03-11T05:38:13.529Z"}
+{"level":"info","message":"Connection established with a user","timestamp":"2017-03-11T05:38:21.276Z"}
+{"level":"info","message":"User Me joined botter chat","timestamp":"2017-03-11T05:38:21.339Z"}
+{"level":"info","message":"client message. name: Me, msg: init","timestamp":"2017-03-11T05:38:21.409Z"}
+{"level":"info","message":"Matcher message. name: Matcher, msg: Let me grab your information to find a good match for you. Is that OK? Otherwise ask for a job matching your skills, or simply type your skills.","timestamp":"2017-03-11T05:38:21.833Z"}
