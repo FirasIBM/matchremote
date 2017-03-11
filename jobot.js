@@ -93,9 +93,9 @@ function actionDispatch(botMsg){
      break;
     case 'match-me':
      console.log('matched match-me');
-     var pos = getJobPosition(botMsg);
+/*     var pos = getJobPosition(botMsg);
      var ski = getJobSkills(botMsg);
-     ioSocket.emit('setSkills', pos, ski);
+     ioSocket.emit('setSkills', pos, ski); */
      break;
     case 'all-jobs':
      console.log('Matched: all-jobs');
