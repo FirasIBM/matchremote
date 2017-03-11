@@ -24,6 +24,9 @@ var currentJobIndex = 0;
 /* Current job card color index */
 var currentCardColorIndex = 0;
 
+/* job card color */
+var jobCardColors = ["pink","blue","red","teal","indigo","green","cyan","purple","yellow","khaki","lime"];
+
 
 $(document).ready(function(){
   var userName = "Me";
@@ -76,7 +79,9 @@ socket.on('restartJobs', function(){
   currentJobIndex = 0;
   populateJob();
   $('.jobcard').slideDown();
-  restartJobCardColor();
+//  restartJobCardColor();
+  currentCardColorIndex = 0;
+
   insertMessageArea("Matcher", "Done. You're on the main board");
 //  matchMe('software engineer', 'sdk ios java', [jobs[0]]);
 //  window.console.log('match => position: ' + m[0].job.position + ', counter: ' + m[0].counter);
@@ -202,7 +207,7 @@ function populateJob(){
   $('#applyjob').click(function() { window.open(applyLink, '_blank'); });
   populateTags(job);
 
-  
+//  changeJobCardColorRight()
 
 /*  var cardElm = $('#mainjobcard').find('.jobcard').detach();
   cardElm.addClass("w3-animate-left");
@@ -255,23 +260,28 @@ function slideJobLeft(){
   } else {
     currentJobIndex = jobs.length - 1;
   }
+
   populateJob();
   changeJobCardColorLeft();
+//  changeJobCardColor();
   window.console.log('Current Job Index : ' + currentJobIndex);
   
-  }
+  } 
   return false;
 }
 
 /* card color; changed on slide */
 function changeJobCardColorRight(){
-  var colors = ["pink","blue","red","teal","indigo","green","cyan","purple","yellow","khaki","lime"];
+//  var colors = ["pink","blue","red","teal","indigo","green","cyan","purple","yellow","khaki","lime"];
   
-  if((currentCardColorIndex + 1) >= colors.length){
+  if((currentCardColorIndex + 1) >= jobCardColors.length){
    currentCardColorIndex = 0;
   } else {
    currentCardColorIndex++;
   }
+
+  changeJobCardColor();
+/*
   // get second class (color)
   var headcolorClass = $('#jobcardhead').attr('class').split(' ')[1];
   var footcolorClass = $('#applyjob').attr('class').split(' ')[1];
@@ -284,17 +294,22 @@ function changeJobCardColorRight(){
 
   return false;
  // window.console.log('colorClass : ' + colorClass);
+ */
 }
 
 /* card color; changed on slide */
 function changeJobCardColorLeft(){
   var colors = ["lime","khaki","yellow","purple","cyan","green","indigo","teal","red","blue","pink"];
   
-  if((currentCardColorIndex + 1) >= colors.length){
-   currentCardColorIndex = 0;
+  if((currentCardColorIndex - 1) >= 0){
+   currentCardColorIndex--;
   } else {
-   currentCardColorIndex++;
+   currentCardColorIndex = jobCardColors.length - 1;
   }
+
+  changeJobCardColor();
+
+/*
   // get second class (color)
   var headcolorClass = $('#jobcardhead').attr('class').split(' ')[1];
   var footcolorClass = $('#applyjob').attr('class').split(' ')[1];
@@ -307,8 +322,24 @@ function changeJobCardColorLeft(){
 
   return false;
  // window.console.log('colorClass : ' + colorClass);
+*/
 }
 
+function changeJobCardColor(){
+  // get second class (color)
+  var headcolorClass = $('#jobcardhead').attr('class').split(' ')[1];
+  var footcolorClass = $('#applyjob').attr('class').split(' ')[1];
+  // remove color class
+  $("#jobcardhead").removeClass(headcolorClass);
+  $("#applyjob").removeClass(headcolorClass);
+  // add color class
+  $("#jobcardhead").addClass('w3-' + jobCardColors[currentCardColorIndex]);
+  $("#applyjob").addClass('w3-' + jobCardColors[currentCardColorIndex]);
+
+  window.console.log('Cindex: ' + currentCardColorIndex + ', Color: ' + jobCardColors[currentCardColorIndex]);
+
+  return false;
+}
 
 /* Job Matcher:
  * 1) Get matched jobs
@@ -356,6 +387,7 @@ function matchMe(position, skills, ajobs){
   }  
 }
 
+/*
 function restartJobCardColor(){
     // get second class (color)
    var headcolorClass = $('#jobcardhead').attr('class').split(' ')[1];
@@ -367,7 +399,7 @@ function restartJobCardColor(){
    $("#jobcardhead").addClass('w3-' + 'pink');
    $("#applyjob").addClass('w3-' + 'pink');
 }
-
+*/
 
 function isStrEmpty(str){
  return (!str || 0 === str.length);
