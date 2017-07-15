@@ -1,6 +1,6 @@
 /* 
  * An AI chatbot backend for Botter. Uses real-time
- * connection to handle and process API.AI message
+ * connection to handle and process API.AI messages
 */
 'use strict'
 
